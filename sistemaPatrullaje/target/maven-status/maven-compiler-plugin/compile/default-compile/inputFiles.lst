@@ -1,0 +1,12 @@
+/home/ianvifit/IdeaProjects/BitFi/sistemaPatrullaje/src/main/java/com/ianvifit/sistemapatrullaje/SistemaPatrullajeApplication.java
+/home/ianvifit/IdeaProjects/BitFi/sistemaPatrullaje/src/main/java/com/ianvifit/sistemapatrullaje/controller/AnaliticaController.java
+/home/ianvifit/IdeaProjects/BitFi/sistemaPatrullaje/src/main/java/com/ianvifit/sistemapatrullaje/dto/SectorPeligrosoDTO.java
+/home/ianvifit/IdeaProjects/BitFi/sistemaPatrullaje/src/main/java/com/ianvifit/sistemapatrullaje/model/Incidente.java
+/home/ianvifit/IdeaProjects/BitFi/sistemaPatrullaje/src/main/java/com/ianvifit/sistemapatrullaje/model/Prioridad.java
+/home/ianvifit/IdeaProjects/BitFi/sistemaPatrullaje/src/main/java/com/ianvifit/sistemapatrullaje/model/RutaOptimizada.java
+/home/ianvifit/IdeaProjects/BitFi/sistemaPatrullaje/src/main/java/com/ianvifit/sistemapatrullaje/model/TipoIncidente.java
+/home/ianvifit/IdeaProjects/BitFi/sistemaPatrullaje/src/main/java/com/ianvifit/sistemapatrullaje/repository/IncidenteRepository.java
+/home/ianvifit/IdeaProjects/BitFi/sistemaPatrullaje/src/main/java/com/ianvifit/sistemapatrullaje/repository/RutaOptimizadaRepository.java
+/home/ianvifit/IdeaProjects/BitFi/sistemaPatrullaje/src/main/java/com/ianvifit/sistemapatrullaje/service/AnaliticaService.java
+/home/ianvifit/IdeaProjects/BitFi/sistemaPatrullaje/src/main/java/com/ianvifit/sistemapatrullaje/service/KafkaConsumerService.java
+/home/ianvifit/IdeaProjects/BitFi/sistemaPatrullaje/src/main/java/com/ianvifit/sistemapatrullaje/service/KafkaProducerService.java

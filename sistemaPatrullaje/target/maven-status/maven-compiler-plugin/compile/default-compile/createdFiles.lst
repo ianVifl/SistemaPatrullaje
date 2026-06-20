@@ -1,0 +1,12 @@
+com/ianvifit/sistemapatrullaje/model/Prioridad.class
+com/ianvifit/sistemapatrullaje/repository/IncidenteRepository.class
+com/ianvifit/sistemapatrullaje/service/KafkaConsumerService.class
+com/ianvifit/sistemapatrullaje/controller/AnaliticaController.class
+com/ianvifit/sistemapatrullaje/dto/SectorPeligrosoDTO.class
+com/ianvifit/sistemapatrullaje/model/Incidente.class
+com/ianvifit/sistemapatrullaje/service/KafkaProducerService.class
+com/ianvifit/sistemapatrullaje/SistemaPatrullajeApplication.class
+com/ianvifit/sistemapatrullaje/repository/RutaOptimizadaRepository.class
+com/ianvifit/sistemapatrullaje/service/AnaliticaService.class
+com/ianvifit/sistemapatrullaje/model/TipoIncidente.class
+com/ianvifit/sistemapatrullaje/model/RutaOptimizada.class
